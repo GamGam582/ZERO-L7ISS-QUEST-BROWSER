@@ -65,4 +65,5 @@ Join our support channel for installation help and troubleshooting!
 
 👑 **DEVELOPED BY: ZERO L7ISS**
 *"Making Discord better, one quest at a time"* ✨
-![Uploading EXTENSION.png…]()
+
+<img width="2208" height="1133" alt="EXTENSION" src="https://github.com/user-attachments/assets/9993b324-0ad8-4544-897a-dd3f1fd5b33d" />
