@@ -51,7 +51,7 @@ The ultimate tool to complete Discord quests **||AUTOMATICALLY||** with **||ONE 
 🛠️ **INSTALLATION GUIDE:**
 1. Download the ZIP file
 2. Extract using the password
-3. Load as unpacked extension in Chrome/Edge
+3. Load as unpacked extension in your browser
 4. Visit Discord quest page and click the button!
 
 ---
